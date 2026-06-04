@@ -1,5 +1,8 @@
 # UI-UX-Experiment6
 
+## Reg No : 212224230041
+## Name : Chandru M
+
 ## Aim
 
 To understand and apply the UX design process by conducting solution ideation, creating user stories, developing user scenarios, designing user flow diagrams, and organizing information architecture for a Hospital Appointment Booking App.
